@@ -38,6 +38,7 @@ a:hover{
  	border-radius:50px;
 	border: none;
 	background-color:#2486CE;
+	width: auto !important;
  }
 
 
@@ -106,6 +107,7 @@ a:hover{
 	text-align: center;
 	padding: 10px 25px 10px 25px;
 	border-radius:50px;
+	width:auto !important;
 }
 #section2 .row .col p{
 	padding: 20px;
