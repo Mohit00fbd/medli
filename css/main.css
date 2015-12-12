@@ -2,6 +2,7 @@
 html{
 	font-family: 'Roboto', sans-serif;
 	font-weight: 500;
+	overflow-x: hidden;
 }
 #section1{
   background-color: rgb(20,130,202);
@@ -116,24 +117,6 @@ a:hover{
 	margin: 20px;
 	text-align: center;
 }
-
-#contact{
-	color:white;
-	background-color:#F09142;
-	padding: 10px 20px;
-	border-radius: 50px;
-	text-decoration: none;
-	font-family:'Roboto', sans-serif;
-	font-size:1.5em;
-	position:relative;
-	left: 90%;
-	transition-property:all;
-	transition-timing-function:ease-in;
-	transition-duration: 0.25s;
-	margin-bottom: 5px;
-}
-
-
 
 .second{
 	background-color:#673AB7;
