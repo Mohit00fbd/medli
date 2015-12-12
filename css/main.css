@@ -1,4 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto);
+*{
+	width: 100%;
+}
 html{
 	font-family: 'Roboto', sans-serif;
 	font-weight: 500;
@@ -17,8 +20,8 @@ a:hover{
 	text-decoration: none;
 }
 .logo{
-	margin-right: 20px;
-	margin-bottom: 20px;
+	margin: 20px auto;
+	width: 79px;
 }
 
  #section1 h1{
@@ -108,7 +111,7 @@ a:hover{
 	padding: 20px;
 	font-weight: 500;
 	line-height: 1.2em;
-	font-size: 20px;
+	font-size: 18px;
 	text-align: center;
 }
 .glyphicon {
@@ -128,8 +131,4 @@ a:hover{
 	font-size: 3em;
 	text-align:center;
 	padding-top: 40px;
-}
-a{
-	-webkit-transition: all 1s ease;
-	transition: all 1s ease;
 }
