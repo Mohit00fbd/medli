@@ -146,3 +146,7 @@ a:hover{
 	text-align:center;
 	padding-top: 40px;
 }
+a{
+	-webkit-transition: all 1s ease;
+	transition: all 1s ease;
+}
