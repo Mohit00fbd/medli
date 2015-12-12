@@ -119,10 +119,10 @@ a:hover{
 .glyphicon {
 	display: block;
 	font-size: 75px;
-	margin: 20px;
+	margin-bottom: 20px;
+	margin-top: 20px; 
 	text-align: center;
 }
-
 .second{
 	background-color:#673AB7;
 	width: 100%:
